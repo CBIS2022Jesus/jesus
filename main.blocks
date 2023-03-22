@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(7|`2b}X]PT.xLLChYkg">set happy to</variable><variable id="wo?Ib=#a_e~H0KzswO^9">happy</variable><variable id="+J$Y9X7)XA1mRIiBSLSZ">sad</variable><variable id="Da7jwq|-V(_}ni#`tz`*">scared</variable><variable id="[XZJ#E$nPRD-I`%BXI,}">exsited</variable></variables><block type="device_forever" id="T=o.)eaLtl!#o:FQZ7=F" x="247" y="-91"></block><block type="pxt-on-start" id="W|kB#;|1Vtj@,AcKN1OE" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="f7rKmX5OwA][Hwh`4VYB"><field name="VAR" id="wo?Ib=#a_e~H0KzswO^9">happy</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="LWlZC;8k:dIt0XnZ}ah9"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></value><next><block type="variables_set" id="X+AlgzZ}Eq~odSX`5)^G"><field name="VAR" id="+J$Y9X7)XA1mRIiBSLSZ">sad</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="l`:dwHMTD`M4Fm7?GK!U"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></value><next><block type="variables_set" id="_rNt-GQN#[Gg:_rc%Dly"><field name="VAR" id="Da7jwq|-V(_}ni#`tz`*">scared</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="6V_Txw2gKT0KoOd/VT{u"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . # 
+        . # # # .
+        `</field></block></value><next><block type="variables_set" id="_vQb,7sc02~}d}V]k$|5"><field name="VAR" id="[XZJ#E$nPRD-I`%BXI,}">exsited</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_big_image" id="U^vvv?eN~qRntrOFIcr`"><field name="LEDS">`
+        . . # # . . # # . . 
+        . . # # . . # # . . 
+        . # . . . . . . # . 
+        . # . . . . . . # . 
+        . . # # # # # # . .
+        `</field></block></value></block></next></block></next></block></next></block></statement></block><block type="device_unplot" id="`?7i|^qct[8_V:05Yn!Y" disabled="true" x="70" y="149"><value name="x"><shadow type="math_number_minmax" id="V{zauFhR;@~=]=,MlNSQ" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="Unnp[lBaPm~x/hFVx)!b" disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">0</field></shadow></value></block></xml>
